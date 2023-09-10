@@ -4,4 +4,4 @@ Worked on convert the existing Figma design into a Fully Functional Web Applicat
 ![image_fixed_width](https://github.com/MahmoudHabib-Portfolio/React-Salonesis-App/assets/27707382/0fa5888f-488b-44e2-aac0-400ab578ac48)
 
 # Project Link
-https://serene-dusk-996374.netlify.app/
+https://unrivaled-quokka-b3b523.netlify.app/
