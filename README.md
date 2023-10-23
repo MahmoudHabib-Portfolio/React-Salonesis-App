@@ -10,4 +10,3 @@
 # Source
 https://unrivaled-quokka-b3b523.netlify.app/
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/375ac921-d8d1-487f-b676-5ff257d607dd/deploy-status)](https://app.netlify.com/sites/unrivaled-quokka-b3b523/deploys)
