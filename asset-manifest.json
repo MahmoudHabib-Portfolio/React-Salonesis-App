@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ec632d72.css",
+    "main.js": "/static/js/main.e7eaec14.js",
+    "static/js/787.9b1eac74.chunk.js": "/static/js/787.9b1eac74.chunk.js",
+    "static/media/uicons-regular-rounded-QXG46O7V.eot": "/static/media/uicons-regular-rounded-QXG46O7V.7f3cbccd6c1dad5b5c3d.eot",
+    "static/media/uicons-bold-rounded-CJXWQMMG.eot": "/static/media/uicons-bold-rounded-CJXWQMMG.d839cd24e81b03a3ae73.eot",
+    "static/media/uicons-solid-rounded-3CHVJWAY.eot": "/static/media/uicons-solid-rounded-3CHVJWAY.db4b69f1f366dd7c3690.eot",
+    "static/media/uicons-regular-straight-3DEHAOE2.eot": "/static/media/uicons-regular-straight-3DEHAOE2.e43fe2351a43837fa137.eot",
+    "static/media/uicons-bold-straight-VFSYWI6I.eot": "/static/media/uicons-bold-straight-VFSYWI6I.db75428c44d8abaca0d4.eot",
+    "static/media/uicons-solid-straight-YGWXBG23.eot": "/static/media/uicons-solid-straight-YGWXBG23.5f4e5a6d90737ade4832.eot",
+    "static/media/uicons-regular-rounded-HBITOZ62.woff": "/static/media/uicons-regular-rounded-HBITOZ62.69c7b9b2dd5cbc1ec5b6.woff",
+    "static/media/uicons-bold-rounded-O7JX4SAW.woff": "/static/media/uicons-bold-rounded-O7JX4SAW.b23c468d33d10382a8ee.woff",
+    "static/media/uicons-solid-rounded-J25HK7VI.woff": "/static/media/uicons-solid-rounded-J25HK7VI.e3df72de767e21e451b0.woff",
+    "static/media/uicons-regular-straight-WUTRTRER.woff": "/static/media/uicons-regular-straight-WUTRTRER.047c82888873e3e89fa6.woff",
+    "static/media/uicons-regular-rounded-GCYF47FY.woff2": "/static/media/uicons-regular-rounded-GCYF47FY.cbb8c4e8a19ec5ec709e.woff2",
+    "static/media/uicons-bold-straight-IHIWRN4D.woff": "/static/media/uicons-bold-straight-IHIWRN4D.8da0ccd92a24124f94c9.woff",
+    "static/media/uicons-bold-rounded-CGKSAYQ5.woff2": "/static/media/uicons-bold-rounded-CGKSAYQ5.da3d9f9a1f36d639394e.woff2",
+    "static/media/uicons-solid-straight-PAVUPHY7.woff": "/static/media/uicons-solid-straight-PAVUPHY7.dc6edd75fd9853fb9839.woff",
+    "static/media/uicons-solid-rounded-GWKJW5HG.woff2": "/static/media/uicons-solid-rounded-GWKJW5HG.407328d53e6b6e596075.woff2",
+    "static/media/uicons-regular-straight-JIQ24FYG.woff2": "/static/media/uicons-regular-straight-JIQ24FYG.aebfd72bbfa6c18b0043.woff2",
+    "static/media/uicons-bold-straight-BZ3JDLFC.woff2": "/static/media/uicons-bold-straight-BZ3JDLFC.56ed43bf880356065091.woff2",
+    "static/media/uicons-solid-straight-47DPGFQO.woff2": "/static/media/uicons-solid-straight-47DPGFQO.4a03d91b191d27afc043.woff2",
+    "static/media/uicons-brands-VIKTI4T2.eot": "/static/media/uicons-brands-VIKTI4T2.d0f84423040d1553c68c.eot",
+    "static/media/uicons-brands-T5E3MAIR.woff": "/static/media/uicons-brands-T5E3MAIR.475adb95157e5c727143.woff",
+    "static/media/uicons-brands-MQU4AHEF.woff2": "/static/media/uicons-brands-MQU4AHEF.4dc54c67b0130a18171d.woff2",
+    "static/media/Paypal.svg": "/static/media/Paypal.48e007fa057ea0032890449ffb160cd5.svg",
+    "index.html": "/index.html",
+    "main.ec632d72.css.map": "/static/css/main.ec632d72.css.map",
+    "main.e7eaec14.js.map": "/static/js/main.e7eaec14.js.map",
+    "787.9b1eac74.chunk.js.map": "/static/js/787.9b1eac74.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec632d72.css",
+    "static/js/main.e7eaec14.js"
+  ]
+}
